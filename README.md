@@ -1,4 +1,4 @@
-<a href="http://cyberstudio.com.br"><img src="/CyberRocha/Pessoal/blob/master/0001.png?raw=true" title="CyberStudio" alt="CyberStudio"></a>
+<a href="http://cyberstudio.com.br"><img src="https://github.com/CyberRocha/Pessoal/blob/master/0001.png?raw=true" title="CyberStudio" alt="CyberStudio"></a>
 
 
 ***APRESENTAÇÃO***
