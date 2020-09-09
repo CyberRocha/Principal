@@ -1,4 +1,4 @@
-<a href="http://cyberstudio.com.br"><img src="https://github.com/CyberRocha/Pessoal/blob/master/0001.png?raw=true" style="float:right"></a>
+<a href="http://cyberstudio.com.br"><img src="https://github.com/CyberRocha/Pessoal/blob/master/0001.png?raw=true" style="vertical-align:right"></a>
 
 
 
@@ -19,7 +19,7 @@
 **Outras experiências**
 
 ```
-- Java, JavaScript, PHP, HTML, C++
+- Java, JavaScript, PHP, HTML, CSS, C++
 - MySQL, MariaDB, Interbase, PostgreSQL, Caché
 - Unreal, Unity, Blender
 - Desenvolvedor de games
