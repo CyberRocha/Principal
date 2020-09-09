@@ -18,10 +18,8 @@
 
 **Outras experiências**
 
-```
 - Java, JavaScript, PHP, HTML, CSS, C++
 - MySQL, MariaDB, Interbase, PostgreSQL, Caché
 - Unreal, Unity, Blender
 - Desenvolvedor de games
 - Montagem/otimização/manutenção de computadores
-```
