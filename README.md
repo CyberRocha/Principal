@@ -1,4 +1,5 @@
-<a href="http://cyberstudio.com.br"><img src="https://github.com/CyberRocha/Pessoal/blob/master/0001.png?raw=true" title="CyberStudio" alt="CyberStudio" style="float:right"></a>
+<a href="http://cyberstudio.com.br"><img src="https://github.com/CyberRocha/Pessoal/blob/master/0001.png?raw=true" style="float:right"></a>
+
 
 
 
