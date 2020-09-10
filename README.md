@@ -16,7 +16,7 @@
 > Programador T-SQL
 
 
-**Outras experiências**
+**Outras especialidades**
 
 - Java, JavaScript, PHP, HTML, CSS, C++
 - MySQL, MariaDB, Interbase, PostgreSQL, Caché
