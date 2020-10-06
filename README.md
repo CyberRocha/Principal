@@ -7,9 +7,9 @@
 
 # Marcelo Fernandes Rocha
 
-> Desenvolvedor/Programador Delphi com 24 anos de experiência
+> Desenvolvedor/Programador Delphi com 23 anos de experiência
 
-> Modelagem/Administração de Dados em SQL Server com 24 anos de experiência
+> Modelagem/Administração de Dados em SQL Server com 23 anos de experiência
 
 > Desenvolvedor desktop, dispositivos móveis e WEB
 
